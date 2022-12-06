@@ -1,0 +1,1 @@
+-- Zahialsan baraanii tuhai medeelel

@@ -1,0 +1,1 @@
+-- Ajilchdiin tsagiin huvaari
