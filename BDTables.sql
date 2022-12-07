@@ -21,7 +21,7 @@ create table Employee
     emp_code char(7) primary key,
     emp_fName varchar(50),
     emp_lName varchar(50),
-    emp_register char(10),
+    emp_register VARCHAR(11),
     emp_position varchar(50),
     emp_salary integer
 )
